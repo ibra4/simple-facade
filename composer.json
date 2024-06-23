@@ -1,0 +1,17 @@
+{
+    "name": "ibra/facade",
+    "description": "A simple implementation of Facade Design Pattern",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ibra\\Facade\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ibra4",
+            "email": "ibra16@itc.hu.edu.jo"
+        }
+    ],
+    "require": {}
+}
