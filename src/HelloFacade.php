@@ -12,6 +12,9 @@ class HelloFacade
 {
     public static function sayHello(string $name): void
     {
+        /**
+         * Heavily complex logic.
+         */
         echo "Hello, $name!";
     }
 }
