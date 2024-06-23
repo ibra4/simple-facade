@@ -11,4 +11,4 @@ The project consists of the following main components:
   - Application: A class that registers and initializes facades.
   - HelloFacade: A simple class that contains the functionality to be exposed through the Facade.
 - Client Code
-  - <i>Hello (Concrete)</i>: A concrete implementation of the Facade class that provides how to access to the HelloFacade.
+  - index.php

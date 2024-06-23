@@ -1,12 +1,12 @@
 <?php
 
-namespace Ibra\Facade\Internal;
+namespace Ibra\Facade;
 
-use Ibra\Facade\Internal\HelloFacade;
+use Ibra\Facade\HelloFacade;
 
 /**
  * Class Application
- * @package Ibra\Facade\Internal
+ * @package Ibra\Facade
  */
 class Application
 {

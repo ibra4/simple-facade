@@ -1,10 +1,10 @@
 <?php
 
-namespace Ibra\Facade\Internal;
+namespace Ibra\Facade;
 
 /**
  * Class HelloFacade
- * @package Ibra\Facade\Internal
+ * @package Ibra\Facade
  *
  * This is real implementation of Hello class, and it contains the whole logic.
  */

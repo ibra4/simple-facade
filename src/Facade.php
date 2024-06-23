@@ -1,12 +1,12 @@
 <?php
 
-namespace Ibra\Facade\Internal;
+namespace Ibra\Facade;
 
 use RuntimeException;
 
 /**
  * Class Facade
- * @package Ibra\Facade\Internal
+ * @package Ibra\Facade
  */
 abstract class Facade
 {
